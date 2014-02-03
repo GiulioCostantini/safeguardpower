@@ -1,0 +1,10 @@
+Package: safeguardpower
+Type: Package
+Title: Safeguard Power Analysis
+Version: 0.1
+Date: 2013-12-19
+Author: Giulio Costantini, Marco Perugini, Marcello Gallucci
+Maintainer: Giulio Costantini <giulio.costantini@unimib.it>
+Description: Safeguard Power analysis for effect sizes d and r
+License: GPL (>=2)
+Depends: pwr, MBESS, psych
